@@ -14,7 +14,7 @@
     </style>
   </head>
   <body>
-    <p text-align: center>
+    <p align: center>
        <img src="https://user-images.githubusercontent.com/47262701/129104856-fee4fb3a-a377-4ac4-bd40-043d17bc659b.jpg" class="image" alt="Redirect information">
        <br>
        <h3> 
